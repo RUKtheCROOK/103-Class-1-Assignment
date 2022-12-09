@@ -27,3 +27,21 @@ let furtureGeoLocation = "California";
 document.write(
   `I am ${age} years old and my name is ${firstName} ${lastName}. I have ${childrenNumber} kids and am married to ${spouseName}. I live in ${geoLocation} and currently do not work but I am instead a ${Job}. The shirt I am wearing is ${shirtColor} and the pants I am wearing are ${pantColor}. I have a really cool computer with a ${computerGPU} for my graphics card. I also have ${siblingsMomSide} siblings on my moms side and ${siblingsDadSide} siblings on my dads side. My moms name is ${momsName} and her dads name is ${grandpasName}. My dads name is ${dadsName} and he has been married to my mom for 15 years. I have a dog named ${dogsName} and the current month is ${currentMonth}. The class I am taking with SDGKU is a ${currentClass} and I hope to one day soon be a ${futureJob}. I really want my job status to be ${hopefulJobStatus} but I also would not mind living in ${furtureGeoLocation} becuase of how pretty it is!`
 );
+
+// Below is creating a function or function decleration
+// function greeting() {
+
+//   // the body of the function to create a unique function
+// }
+// function expressions
+// let displayValues = function () {
+//   console.log("displaying values...");
+// };
+// displayValues();
+
+// // arrow function
+
+// let traveling = (country) => "traveling to ..." + country;
+
+// travel = traveling("italy");
+// console.log(travel);
