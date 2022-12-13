@@ -1,3 +1,4 @@
+// EXTRA NOTES
 // let userName = prompt("Enter your username");
 // let email = prompt("Enter your email");
 // let password = prompt("Enter your password");
